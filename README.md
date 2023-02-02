@@ -4,6 +4,8 @@
 
 This provides real-time information about the availability of your services, enabling you to advise your users of your application's status. Utilizing SvelteKit, the app offers an intuitive interface for tracking the current and historical status of services, as well as upcoming maintenance schedules.
 
+You can view a live example [here](https://gubareve-statusapp-demo.vercel.app/).
+
 ### Images
 
 <img src="https://user-images.githubusercontent.com/24500411/216223631-c25f6c14-4c97-46fa-b496-cb8d291da272.png" width="300">
