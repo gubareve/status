@@ -1,0 +1,19 @@
+{
+	"services": [
+		{ "name": "Frontend", "isOperational": true },
+		{ "name": "Backend", "isOperational": true },
+		{ "name": "Admin Panel", "isOperational": true }
+	],
+	"maintenance": {
+		"show": true,
+		"message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum consequatur pariatur vero atque, temporibus repellat qui earum quas minus, maxime voluptates tempore itaque necessitatibus fugiat rem vel nulla amet. Adipisci?",
+		"time": "tommorow"
+	},
+	"incidents": [
+		{ "date": "2023-01-1", "description": "Example incident" },
+		{ "date": "2022-12-30", "description": "Example incident v2" }
+	],
+	"config": {
+		"appName": "TestApp"
+	}
+}
